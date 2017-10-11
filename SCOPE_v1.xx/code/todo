@@ -1,0 +1,12 @@
+some idea's to improve forest elbarra results (using better priors)
+1a) integrate double logistic function (or cost^2) for prior (possibly forced by MODIS multi-year LAI)
+1b) define use seasonality from MODIS for LAI
+1c) retrieve without regulartization and fit double-logistic function. (specify control-years)
+
+2a) use thermal time (or accum. sunhours) instead of real time to feed the double logistic time.
+
+
+
+check what
+
+run scope with different products to see what inconsistancy does to your FLUX output?!
